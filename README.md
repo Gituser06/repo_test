@@ -1,2 +1,1 @@
-# repo_test
-testing
+This is a test project to display GIT Lifecycle
